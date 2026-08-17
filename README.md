@@ -1,2 +1,2 @@
 # LENS: Visual Computing Experiments
-A collection of real-time camera experiments exploring computer vision, image processing, and visual design.
+A multi-page website containing interactive, real-time camera experiments exploring visual computing, image processing, and visual design.
